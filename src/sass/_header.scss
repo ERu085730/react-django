@@ -1,0 +1,25 @@
+.header {
+  grid-column: 1/-1;
+  background-image: linear-gradient(
+      to right,
+      rgba($color-grey, 0.2),
+      rgba($color-grey, 0.2)
+    ),
+    url("../img/header.jpg");
+  // background-image: url("../img/header.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 15vw;
+  position: relative;
+
+  &__title {
+    font-size: 6rem;
+    padding: 0 8rem;
+    background-color: $color-primary;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 10vw;
+    transform: translateY(-50%);
+  }
+}

@@ -1,0 +1,35 @@
+.sidebar {
+  grid-template-columns: 2;
+  background-color: $color-white;
+
+  display: flex;
+  flex-direction: column;
+  // position: sticky;
+  // top: 0;
+  // left: 0;
+
+  &__title {
+    padding: 2rem;
+    text-align: center;
+    background-color: $color-primary;
+  }
+
+  &__lists {
+    padding: 3rem;
+    list-style: none;
+    letter-spacing: 0.5rem;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  &__list {
+    color: black;
+    margin-bottom: 2rem;
+  }
+}

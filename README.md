@@ -8,7 +8,7 @@
 
 ## 技術:
 
-前端(html/css/javascript):
+前端(html/css/javascript): </br>
 -Sassy css(Scss) </br>
 -react
 
@@ -16,5 +16,8 @@
 -django </br>
 -django-rest-framework(viewset) </br>
 -django-cors-header
+
+
+## DEMO: </br>
 
 

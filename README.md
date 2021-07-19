@@ -17,6 +17,9 @@
 -django-rest-framework(viewset) </br>
 -django-cors-header
 
+## github: </br>
+https://github.com/ERu085730/react-django
+
 
 ## DEMO: </br>
 目前尚未成功push所以若要Demo請clone此project並完成以下步驟: </br>

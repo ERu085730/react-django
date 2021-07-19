@@ -1,3 +1,5 @@
+![螢幕擷取畫面 2021-07-19 115051](https://user-images.githubusercontent.com/61855494/126100751-7a218ede-b356-4b72-ac92-8c43fd8f1d2f.png)
+![螢幕擷取畫面 2021-07-19 115051](https://user-images.githubusercontent.com/61855494/126100759-76bc767d-119f-4244-b2e6-b9d1c64587dd.png)
 # react-django
 
 練習連接react 及 django

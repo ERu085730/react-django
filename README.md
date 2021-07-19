@@ -1,5 +1,3 @@
-![螢幕擷取畫面 2021-07-19 115051](https://user-images.githubusercontent.com/61855494/126100751-7a218ede-b356-4b72-ac92-8c43fd8f1d2f.png)
-![螢幕擷取畫面 2021-07-19 115051](https://user-images.githubusercontent.com/61855494/126100759-76bc767d-119f-4244-b2e6-b9d1c64587dd.png)
 # react-django
 
 練習連接react 及 django
@@ -28,6 +26,12 @@
 4.確認有裝nodejs後於cmd輸入 npm i </br>
 5.分別於虛擬環境cmd輸入py manage.py runserver及另一cmd輸入 npm run start </br>
 即可於http://127.0.0.1:8000/api/ 、 http://localhost:3000  看到前端及後端網頁
+
+![螢幕擷取畫面 2021-07-19 115051](https://user-images.githubusercontent.com/61855494/126100806-ce855149-d8cf-4056-9a5c-e3765c98f584.png)
+![螢幕擷取畫面 2021-07-19 115107](https://user-images.githubusercontent.com/61855494/126100807-6d30c0d6-b51a-4b0c-82a4-c4262db54ec4.png)
+![螢幕擷取畫面 2021-07-19 115120](https://user-images.githubusercontent.com/61855494/126100810-a76213ae-467d-4fa8-81d5-9f25b2acf427.png)
+![螢幕擷取畫面 2021-07-19 115138](https://user-images.githubusercontent.com/61855494/126100812-cae00457-f34f-4486-a390-3822982a9e27.png)
+
 
 
 

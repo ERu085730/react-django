@@ -9,12 +9,12 @@
 ## 技術:
 
 前端(html/css/javascript):
--Sassy css(Scss) <br />
+-Sassy css(Scss) </br>
 -react
 
 後端(python):
--django <br />
--django-rest-framework(viewset) <br />
+-django </br>
+-django-rest-framework(viewset) </br>
 -django-cors-header
 
 

@@ -12,7 +12,7 @@
 -Sassy css(Scss) </br>
 -react
 
-後端(python):
+後端(python): </br>
 -django </br>
 -django-rest-framework(viewset) </br>
 -django-cors-header
